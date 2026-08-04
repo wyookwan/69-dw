@@ -1,0 +1,168 @@
+﻿Customer_ID,Customer_Name,Customer_Email,Province
+C0001,Tee Saelim,tee.saelim1@example.com,Bangkok
+C0002,Mint Thongdee,mint.thongdee2@example.com,Rayong
+C0004,Tee Dechawat,tee.dechawat4@example.com,Bangkok
+C0005,Ploy Chaiyo,ploy.chaiyo5@example.com,Bangkok
+C0006,Pim Khamdee,pim.khamdee6@example.com,Nakhon Ratchasima
+C0007,Jane Saelim,jane.saelim7@example.com,Chiang Mai
+C0008,Ice Rattanakul,ice.rattanakul8@example.com,Chiang Mai
+C0009,Beam Sukjai,beam.sukjai9@example.com,Bangkok
+C0010,Beam Sukjai,beam.sukjai10@example.com,Phuket
+C0011,Mint Rattanakul,mint.rattanakul11@example.com,Chanthaburi
+C0012,Mint Pattanakul,mint.pattanakul12@example.com,Chiang Mai
+C0013,Narin Wongsa,narin.wongsa13@example.com,Khon Kaen
+C0014,Beam Thongdee,beam.thongdee14@example.com,Chonburi
+C0015,New Pattanakul,new.pattanakul15@example.com,Bangkok
+C0016,Korn Lertprasert,korn.lertprasert16@example.com,Khon Kaen
+C0017,Mook Rattanakul,mook.rattanakul17@example.com,Khon Kaen
+C0018,Nont Chaiyo,nont.chaiyo18@example.com,Phuket
+C0019,Korn Dechawat,korn.dechawat19@example.com,Nakhon Ratchasima
+C0020,New Chaiyo,new.chaiyo20@example.com,Phuket
+C0021,May Boonmee,may.boonmee21@example.com,Nakhon Ratchasima
+C0022,Film Kittikul,film.kittikul22@example.com,Nakhon Ratchasima
+C0023,Beam Boonmee,beam.boonmee23@example.com,Khon Kaen
+C0024,Fah Boonmee,fah.boonmee24@example.com,Bangkok
+C0025,Mook Srisawat,mook.srisawat25@example.com,Nakhon Ratchasima
+C0026,Mook Wongsa,mook.wongsa26@example.com,Chiang Mai
+C0027,Ploy Wongsa,ploy.wongsa27@example.com,Khon Kaen
+C0028,Korn Rattanakul,korn.rattanakul28@example.com,Chonburi
+C0029,Aom Pattanakul,aom.pattanakul29@example.com,Bangkok
+C0030,May Thongdee,may.thongdee30@example.com,Nakhon Ratchasima
+C0031,Ploy Rattanakul,ploy.rattanakul31@example.com,Chiang Mai
+C0032,Bank Dechawat,bank.dechawat32@example.com,Nakhon Ratchasima
+C0033,Pim Srisawat,pim.srisawat33@example.com,Rayong
+C0034,Fah Pattanakul,fah.pattanakul34@example.com,Chiang Mai
+C0036,Film Maneerat,film.maneerat36@example.com,Chonburi
+C0037,Jane Phromla,jane.phromla37@example.com,Chiang Mai
+C0038,Boss Kittikul,boss.kittikul38@example.com,Nakhon Ratchasima
+C0039,Beam Boonmee,beam.boonmee39@example.com,Rayong
+C0040,Pim Srisawat,pim.srisawat40@example.com,Rayong
+C0041,Tee Chaiyo,tee.chaiyo41@example.com,Chonburi
+C0043,Beam Rattanakul,beam.rattanakul43@example.com,Bangkok
+C0044,Gun Phromla,gun.phromla44@example.com,Chonburi
+C0045,Boss Khamdee,boss.khamdee45@example.com,Phuket
+C0046,Nont Boonmee,nont.boonmee46@example.com,Chiang Mai
+C0047,Ploy Saelim,ploy.saelim47@example.com,Khon Kaen
+C0048,Boss Dechawat,boss.dechawat48@example.com,Rayong
+C0049,Gun Dechawat,gun.dechawat49@example.com,Nakhon Ratchasima
+C0052,Gun Dechawat,gun.dechawat52@example.com,Rayong
+C0053,Jane Pattanakul,jane.pattanakul53@example.com,Nakhon Ratchasima
+C0055,Beam Thongdee,beam.thongdee55@example.com,Chonburi
+C0056,Mint Maneerat,mint.maneerat56@example.com,Rayong
+C0057,Ploy Thongdee,ploy.thongdee57@example.com,Nakhon Ratchasima
+C0058,Anan Wongsa,anan.wongsa58@example.com,Khon Kaen
+C0060,Tee Maneerat,tee.maneerat60@example.com,Rayong
+C0061,Tee Maneerat,tee.maneerat61@example.com,Chiang Mai
+C0062,Beam Rattanakul,beam.rattanakul62@example.com,Bangkok
+C0063,Korn Wongsa,korn.wongsa63@example.com,Bangkok
+C0064,Ploy Thongdee,ploy.thongdee64@example.com,Phuket
+C0065,Pim Srisawat,pim.srisawat65@example.com,Nakhon Ratchasima
+C0066,Beam Rattanakul,beam.rattanakul66@example.com,Chonburi
+C0067,May Pattanakul,may.pattanakul67@example.com,Chonburi
+C0068,Beam Sukjai,beam.sukjai68@example.com,Bangkok
+C0069,Jane Saelim,jane.saelim69@example.com,Khon Kaen
+C0070,Pim Chaiyo,pim.chaiyo70@example.com,Khon Kaen
+C0071,Aom Sukjai,aom.sukjai71@example.com,Chanthaburi
+C0072,Tee Lertprasert,tee.lertprasert72@example.com,Chanthaburi
+C0073,May Lertprasert,may.lertprasert73@example.com,Bangkok
+C0074,Ice Kittikul,ice.kittikul74@example.com,Chonburi
+C0075,Ice Maneerat,ice.maneerat75@example.com,Bangkok
+C0076,Pim Phromla,pim.phromla76@example.com,Chanthaburi
+C0077,Tee Chaiyo,tee.chaiyo77@example.com,Khon Kaen
+C0078,Nont Khamdee,nont.khamdee78@example.com,Bangkok
+C0079,Mook Srisawat,mook.srisawat79@example.com,Chanthaburi
+C0080,May Kittikul,may.kittikul80@example.com,Khon Kaen
+C0081,Film Srisawat,film.srisawat81@example.com,Chonburi
+C0082,Beam Srisawat,beam.srisawat82@example.com,Khon Kaen
+C0083,Beam Srisawat,beam.srisawat83@example.com,Chiang Mai
+C0084,Film Thongdee,film.thongdee84@example.com,Bangkok
+C0085,Aom Thongdee,aom.thongdee85@example.com,Chiang Mai
+C0086,Korn Dechawat,korn.dechawat86@example.com,Nakhon Ratchasima
+C0087,May Sukjai,may.sukjai87@example.com,Chanthaburi
+C0088,Narin Sukjai,narin.sukjai88@example.com,Phuket
+C0089,May Sukjai,may.sukjai89@example.com,Chiang Mai
+C0090,Mook Sukjai,mook.sukjai90@example.com,Chanthaburi
+C0091,Beam Maneerat,beam.maneerat91@example.com,Chonburi
+C0092,Tee Wongsa,tee.wongsa92@example.com,Chanthaburi
+C0093,Bank Thongdee,bank.thongdee93@example.com,Khon Kaen
+C0094,Boss Srisawat,boss.srisawat94@example.com,Chiang Mai
+C0095,Tee Khamdee,tee.khamdee95@example.com,Khon Kaen
+C0096,Korn Dechawat,korn.dechawat96@example.com,Chonburi
+C0097,Ploy Boonmee,ploy.boonmee97@example.com,Chiang Mai
+C0098,Film Lertprasert,film.lertprasert98@example.com,Khon Kaen
+C0100,Fah Rattanakul,fah.rattanakul100@example.com,Bangkok
+C0101,Boss Phromla,boss.phromla101@example.com,Bangkok
+C0102,Nont Saelim,nont.saelim102@example.com,Chanthaburi
+C0103,Tee Phromla,tee.phromla103@example.com,Phuket
+C0104,May Srisawat,may.srisawat104@example.com,Chonburi
+C0105,Korn Sukjai,korn.sukjai105@example.com,Rayong
+C0106,Korn Srisawat,korn.srisawat106@example.com,Rayong
+C0108,Anan Khamdee,anan.khamdee108@example.com,Nakhon Ratchasima
+C0109,Jane Thongdee,jane.thongdee109@example.com,Bangkok
+C0110,Mook Srisawat,mook.srisawat110@example.com,Nakhon Ratchasima
+C0111,New Rattanakul,new.rattanakul111@example.com,Bangkok
+C0112,Pim Rattanakul,pim.rattanakul112@example.com,Phuket
+C0113,Tee Dechawat,tee.dechawat113@example.com,Rayong
+C0114,Ploy Thongdee,ploy.thongdee114@example.com,Nakhon Ratchasima
+C0115,Korn Lertprasert,korn.lertprasert115@example.com,Phuket
+C0116,Boss Wongsa,boss.wongsa116@example.com,Chonburi
+C0117,Mint Phromla,mint.phromla117@example.com,Nakhon Ratchasima
+C0118,Jane Phromla,jane.phromla118@example.com,Chanthaburi
+C0119,Boss Khamdee,boss.khamdee119@example.com,Khon Kaen
+C0120,Mook Boonmee,mook.boonmee120@example.com,Chonburi
+C0121,Ice Kittikul,ice.kittikul121@example.com,Bangkok
+C0122,Anan Wongsa,anan.wongsa122@example.com,Chanthaburi
+C0123,Ploy Khamdee,ploy.khamdee123@example.com,Chanthaburi
+C0124,Aom Thongdee,aom.thongdee124@example.com,Khon Kaen
+C0125,May Lertprasert,may.lertprasert125@example.com,
+C0126,Ploy Maneerat,ploy.maneerat126@example.com,Phuket
+C0127,Fah Rattanakul,fah.rattanakul127@example.com,Rayong
+C0128,Ploy Khamdee,ploy.khamdee128@example.com,Bangkok
+C0130,Jane Srisawat,jane.srisawat130@example.com,Nakhon Ratchasima
+C0131,Narin Rattanakul,narin.rattanakul131@example.com,Khon Kaen
+C0132,Fah Saelim,fah.saelim132@example.com,Khon Kaen
+C0133,Gun Kittikul,gun.kittikul133@example.com,Phuket
+C0134,Pim Wongsa,pim.wongsa134@example.com,Chanthaburi
+C0135,Korn Srisawat,korn.srisawat135@example.com,Bangkok
+C0136,Nont Kittikul,nont.kittikul136@example.com,Khon Kaen
+C0137,Film Boonmee,film.boonmee137@example.com,Khon Kaen
+C0138,Mint Dechawat,mint.dechawat138@example.com,Khon Kaen
+C0139,Gun Phromla,gun.phromla139@example.com,Nakhon Ratchasima
+C0140,Ploy Khamdee,ploy.khamdee140@example.com,Nakhon Ratchasima
+C0141,Korn Phromla,korn.phromla141@example.com,Khon Kaen
+C0142,Ploy Maneerat,ploy.maneerat142@example.com,Chiang Mai
+C0143,Korn Srisawat,korn.srisawat143@example.com,Rayong
+C0144,Gun Sukjai,gun.sukjai144@example.com,Phuket
+C0145,Tee Srisawat,tee.srisawat145@example.com,Nakhon Ratchasima
+C0146,Beam Maneerat,beam.maneerat146@example.com,Chanthaburi
+C0147,Film Chaiyo,film.chaiyo147@example.com,Chiang Mai
+C0149,May Pattanakul,may.pattanakul149@example.com,
+C0150,Mook Chaiyo,mook.chaiyo150@example.com,
+C0151,Mook Thongdee,mook.thongdee151@example.com,Bangkok
+C0152,Tee Dechawat,tee.dechawat152@example.com,Chanthaburi
+C0153,Nont Chaiyo,nont.chaiyo153@example.com,Chiang Mai
+C0155,Korn Srisawat,korn.srisawat155@example.com,Phuket
+C0156,Beam Kittikul,beam.kittikul156@example.com,Chanthaburi
+C0157,Nont Rattanakul,nont.rattanakul157@example.com,Khon Kaen
+C0158,Nont Kittikul,nont.kittikul158@example.com,Nakhon Ratchasima
+C0159,Nont Dechawat,nont.dechawat159@example.com,Chiang Mai
+C0160,Mint Kittikul,mint.kittikul160@example.com,Chiang Mai
+C0161,Gun Saelim,gun.saelim161@example.com,Khon Kaen
+C0162,Aom Dechawat,aom.dechawat162@example.com,Rayong
+C0163,Tee Thongdee,tee.thongdee163@example.com,Chanthaburi
+C0164,Gun Srisawat,gun.srisawat164@example.com,Chonburi
+C0165,Nont Thongdee,nont.thongdee165@example.com,Nakhon Ratchasima
+C0166,Jane Srisawat,jane.srisawat166@example.com,Nakhon Ratchasima
+C0167,Anan Sukjai,anan.sukjai167@example.com,Nakhon Ratchasima
+C0168,Aom Saelim,aom.saelim168@example.com,Khon Kaen
+C0169,Boss Kittikul,boss.kittikul169@example.com,Nakhon Ratchasima
+C0170,Beam Boonmee,beam.boonmee170@example.com,Nakhon Ratchasima
+C0171,Beam Lertprasert,beam.lertprasert171@example.com,Rayong
+C0172,Beam Saelim,beam.saelim172@example.com,Rayong
+C0173,Tee Wongsa,tee.wongsa173@example.com,Phuket
+C0174,Ploy Kittikul,ploy.kittikul174@example.com,Chiang Mai
+C0175,Boss Khamdee,boss.khamdee175@example.com,Nakhon Ratchasima
+C0176,Ploy Boonmee,ploy.boonmee176@example.com,Chanthaburi
+C0177,Ice Lertprasert,ice.lertprasert177@example.com,Chiang Mai
+C0178,Anan Wongsa,anan.wongsa178@example.com,Khon Kaen
+C0179,Jane Chaiyo,jane.chaiyo179@example.com,Chanthaburi
