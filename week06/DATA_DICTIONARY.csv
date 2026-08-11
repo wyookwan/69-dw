@@ -1,0 +1,12 @@
+source,field,description
+customers.csv,customer_id,Customer business key
+customers.csv,province,Dirty province values
+orders.csv,order_id,Order business key
+orders.csv,order_date,Mixed date formats
+orders.csv,qty,Quantity; some invalid values exist
+orders.csv,unit_price,Unit price; some invalid values exist
+orders.csv,discount_pct,Discount percent; some invalid values exist
+orders.csv,status,Order status with inconsistent casing
+products.json,category.name,Nested category
+products.json,pricing.price,Nested price
+store.db,stores,Small SQLite source table
