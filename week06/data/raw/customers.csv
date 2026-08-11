@@ -1,0 +1,63 @@
+customer_id,name,province,email
+C001,Fah Kaew,จันทบุรี,user1@example.com
+C002,Ploy Kaew,BKK,user2@example.com
+C003,Game Wong,chon buri,user3@example.com
+C004,Fah Sukjai,ชลบุรี,user4@example.com
+C005,Pat Dee,Chanthaburi,user5@example.com
+C006,Anan Sukjai,chon buri,
+C007,Pat Sukjai,กรุงเทพฯ,user7@example.com
+C008,Game Dee,rayong,user8@example.com
+C009,Game Sukjai,Rayong,user9@example.com
+C010,Narin Kaew,Chanthaburi,user10@example.com
+C011,Kanya Dee,RAYONG,user11@example.com
+C012,Mali Sukjai,ชลบุรี,user12@example.com
+C013,Narin Kaew,,user13@example.com
+C014,Anan Dee,chon buri,user14@example.com
+C015,Game Kaew,ชลบุรี,user15@example.com
+C016,Mali Dee,CHANTHABURI,user16@example.com
+C017,Mali Wong,RAYONG,user17@example.com
+C018,Mint Sukjai,chon buri,user18@example.com
+C019,Mali Sukjai,Bangkok,user19@example.com
+C020,Game Dee,chantaburi,user20@example.com
+C021,Fah Dee,chantaburi,user21@example.com
+C022,Mint Sukjai,จันทบุรี,user22@example.com
+C023,Beam Sukjai,CHANTHABURI,user23@example.com
+C024,Anan Dee,rayong,user24@example.com
+C025,Pat Sukjai,Chanthaburi,user25@example.com
+C026,Beam Kaew,bangkok,user26@example.com
+C027,Pat Wong,CHONBURI,user27@example.com
+C028,Mali Sukjai,Chanthaburi,user28@example.com
+C029,Pat Dee,Bangkok,user29@example.com
+C030,Kanya Kaew,rayong,user30@example.com
+C031,Pat Dee,จันทบุรี,user31@example.com
+C032,Ploy Wong,BKK,user32@example.com
+C033,Beam Dee,BKK,user33@example.com
+C034,Game Sukjai,จันทบุรี,user34@example.com
+C035,Mali Sukjai,Chonburi,user35@example.com
+C036,Beam Kaew,RAYONG,user36@example.com
+C037,Pat Kaew,CHANTHABURI,user37@example.com
+C038,Mali Dee,BKK,user38@example.com
+C039,Fah Sukjai,CHANTHABURI,user39@example.com
+C040,Beam Sukjai,Bangkok,user40@example.com
+C041,Mint Kaew,rayong,user41@example.com
+C042,Anan Dee,CHONBURI,user42@example.com
+C043,Fah Dee,Rayong,user43@example.com
+C044,Ploy Kaew,RAYONG,user44@example.com
+C045,Pat Sukjai,Bangkok,user45@example.com
+C046,Kanya Wong,Chanthaburi,user46@example.com
+C047,Pat Sukjai,ชลบุรี,user47@example.com
+C048,Narin Wong,chon buri,user48@example.com
+C049,Mali Kaew,CHONBURI,user49@example.com
+C050,Ploy Wong,CHONBURI,user50@example.com
+C051,Game Sukjai,ชลบุรี,user51@example.com
+C052,Game Sukjai,ชลบุรี,user52@example.com
+C053,Pat Sukjai,Chanthaburi,user53@example.com
+C054,Mali Sukjai,CHONBURI,user54@example.com
+C055,Kanya Kaew,จันทบุรี,user55@example.com
+C056,Game Sukjai,Chanthaburi,user56@example.com
+C057,Pat Sukjai,ระยอง,user57@example.com
+C058,Beam Sukjai,ชลบุรี,user58@example.com
+C059,Narin Sukjai,CHANTHABURI,user59@example.com
+C060,Ploy Dee,rayong,user60@example.com
+C004,Fah Sukjai,ชลบุรี,user4@example.com
+C009,Game Sukjai,Rayong,user9@example.com

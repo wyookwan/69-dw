@@ -1,0 +1,152 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Product 1",
+    "category": {
+      "name": "Food"
+    },
+    "pricing": {
+      "price": 996.79
+    }
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Product 2",
+    "category": {
+      "name": "Food"
+    },
+    "pricing": {
+      "price": 757.5
+    }
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Product 3",
+    "category": {
+      "name": "IT"
+    },
+    "pricing": {
+      "price": 503.9
+    }
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Product 4",
+    "category": {
+      "name": "Stationery"
+    },
+    "pricing": {
+      "price": 390.89
+    }
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Product 5",
+    "category": {
+      "name": "Stationery"
+    },
+    "pricing": {
+      "price": "1,299.00"
+    }
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Product 6",
+    "category": {
+      "name": "IT"
+    },
+    "pricing": {
+      "price": 1322.8
+    }
+  },
+  {
+    "product_id": "P007",
+    "product_name": "Product 7",
+    "category": {
+      "name": "Food"
+    },
+    "pricing": {
+      "price": 344.97
+    }
+  },
+  {
+    "product_id": "P008",
+    "product_name": "Product 8",
+    "category": {
+      "name": "Food"
+    },
+    "pricing": {
+      "price": 330.64
+    }
+  },
+  {
+    "product_id": "P009",
+    "product_name": "Product 9",
+    "category": {
+      "name": null
+    },
+    "pricing": {
+      "price": 754.77
+    }
+  },
+  {
+    "product_id": "P010",
+    "product_name": "Product 10",
+    "category": {
+      "name": "IT"
+    },
+    "pricing": {
+      "price": 1072.6
+    }
+  },
+  {
+    "product_id": "P011",
+    "product_name": "Product 11",
+    "category": {
+      "name": "Food"
+    },
+    "pricing": {
+      "price": 1236.35
+    }
+  },
+  {
+    "product_id": "P012",
+    "product_name": "Product 12",
+    "category": {
+      "name": "IT"
+    },
+    "pricing": {
+      "price": 686.96
+    }
+  },
+  {
+    "product_id": "P013",
+    "product_name": "Product 13",
+    "category": {
+      "name": "Food"
+    },
+    "pricing": {
+      "price": 1390.08
+    }
+  },
+  {
+    "product_id": "P014",
+    "product_name": "Product 14",
+    "category": {
+      "name": "Food"
+    },
+    "pricing": {
+      "price": 586.17
+    }
+  },
+  {
+    "product_id": "P015",
+    "product_name": "Product 15",
+    "category": {
+      "name": "Stationery"
+    },
+    "pricing": {
+      "price": 750.94
+    }
+  }
+]
