@@ -1,0 +1,164 @@
+﻿customer_id,full_name,email,province,signup_date
+C0001,ลูกค้า 001,customer001@example.com,ชลบุรี,2024-07-29
+C0002,ลูกค้า 002,customer002@example.com,Chonburi,2025-01-04
+C0003,ลูกค้า 003,customer003@example.com,ขอนแก่น,2025-10-10
+C0004,ลูกค้า 004,customer004@example.com,กรุงเทพมหานคร,2024-07-11
+C0005,ลูกค้า 005,customer005@example.com,ระยอง,2025-06-27
+C0006,ลูกค้า 006,customer006@example.com,ระยอง,2024-07-13
+C0007,ลูกค้า 007,customer007@example.com,Bangkok,2025-09-27
+C0008,ลูกค้า 008,customer008@example.com,ขอนแก่น,2025-05-27
+C0009,ลูกค้า 009,customer009@example.com,Phuket,2024-09-06
+C0010,ลูกค้า 010,customer010@example.com,ชลบุรี ,2024-02-04
+C0011,ลูกค้า 011,customer011@example.com,Chonburi,2024-06-14
+C0012,ลูกค้า 012,customer012@example.com,ขอนเเก่น,2025-11-17
+C0013,ลูกค้า 013,customer013@example.com,Chiang Mai,2024-04-18
+C0014,ลูกค้า 014,customer014@example.com,ขอนเเก่น,2025-02-15
+C0015,ลูกค้า 015,customer015@example.com,ภูเก็ต,2025-09-02
+C0016,ลูกค้า 016,customer016@example.com,Chonburi,2024-08-21
+C0017,ลูกค้า 017, CUSTOMER017@EXAMPLE.COM ,กรุงเทพมหานคร,2024-08-15
+C0018,ลูกค้า 018,customer018@example.com,ขอนแก่น,2024-03-18
+C0019,ลูกค้า 019,customer019@example.com,Rayong,2025-01-23
+C0020,ลูกค้า 020,customer020@example.com,ขอนแก่น,2025-10-31
+C0021,ลูกค้า 021,customer021@example.com,เชียงใหม่,2024-02-06
+C0022,ลูกค้า 022,customer022@example.com,Bangkok,2025-07-21
+C0023,ลูกค้า 023,customer023@example.com,กรุงเทพมหานคร,2024-10-21
+C0024,ลูกค้า 024,customer024@example.com,กรุงเทพมหานคร,2025-10-12
+C0025,ลูกค้า 025,customer025@example.com,ชลบุรี ,2024-11-26
+C0026,ลูกค้า 026,customer026@example.com,เชียงใหม่,2024-12-24
+C0027,ลูกค้า 027,customer027@example.com,Bangkok,2024-09-15
+C0028,ลูกค้า 028,customer028@example.com,ขอนเเก่น,2025-08-20
+C0029,ลูกค้า 029,,ขอนแก่น,2025-05-28
+C0030,ลูกค้า 030,customer030@example.com,ชลบุรี ,2024-07-04
+C0031,ลูกค้า 031,customer031@example.com,Bangkok,2025-07-21
+C0032,ลูกค้า 032,customer032@example.com,ระยอง,2024-11-22
+C0033,ลูกค้า 033,customer033@example.com,ระยอง,2024-11-11
+C0034,ลูกค้า 034, CUSTOMER034@EXAMPLE.COM ,Phuket,2025-04-19
+C0035,ลูกค้า 035,customer035@example.com,Chonburi,2025-09-16
+C0036,ลูกค้า 036,customer036@example.com,กทม.,2024-10-26
+C0037,ลูกค้า 037,customer037@example.com,ภูเก็ต,2025-07-06
+C0038,ลูกค้า 038,customer038@example.com,ชลบุรี,2024-05-25
+C0039,ลูกค้า 039,customer039@example.com,กรุงเทพมหานคร,2025-07-17
+C0040,ลูกค้า 040,customer040@example.com,กรุงเทพมหานคร,2025-05-29
+C0041,ลูกค้า 041,customer041@example.com,Rayong,2024-02-25
+C0042,ลูกค้า 042,customer042@example.com,Rayong,2024-11-21
+C0043,ลูกค้า 043,customer043@example.com,ระยอง,2024-12-29
+C0044,ลูกค้า 044,customer044@example.com,กรุงเทพมหานคร,2025-02-26
+C0045,ลูกค้า 045,customer045@example.com,Chiang Mai,2025-05-04
+C0046,ลูกค้า 046,customer046@example.com,ชลบุรี,2024-05-21
+C0047,ลูกค้า 047,customer047@example.com,Rayong,2025-10-16
+C0048,ลูกค้า 048,customer048@example.com,กทม.,2024-09-09
+C0049,ลูกค้า 049,customer049@example.com,Rayong,2025-10-04
+C0050,ลูกค้า 050,customer050@example.com,Chiang Mai,2024-02-03
+C0051,ลูกค้า 051, CUSTOMER051@EXAMPLE.COM ,Chiang Mai,2025-03-18
+C0052,ลูกค้า 052,customer052@example.com,ระยอง,2025-10-20
+C0053,ลูกค้า 053,customer053@example.com,ระยอง,2024-12-06
+C0054,ลูกค้า 054,customer054@example.com,Bangkok,2025-01-14
+C0055,ลูกค้า 055,customer055@example.com,ขอนแก่น,2025-06-12
+C0056,ลูกค้า 056,customer056@example.com,Chiang Mai,2024-02-21
+C0057,ลูกค้า 057,customer057@example.com,Chiang Mai,2025-01-25
+C0058,ลูกค้า 058,,ระยอง,2025-07-15
+C0059,ลูกค้า 059,customer059@example.com,Rayong,2024-11-06
+C0060,ลูกค้า 060,customer060@example.com,Phuket,2024-10-25
+C0061,ลูกค้า 061,customer061@example.com,ขอนเเก่น,2025-02-04
+C0062,ลูกค้า 062,customer062@example.com,ระยอง,2025-03-14
+C0063,ลูกค้า 063,customer063@example.com,Rayong,2024-08-07
+C0064,ลูกค้า 064,customer064@example.com,ขอนแก่น,2025-09-12
+C0065,ลูกค้า 065,customer065@example.com,ขอนแก่น,2024-06-15
+C0066,ลูกค้า 066,customer066@example.com,ระยอง,2025-11-17
+C0067,ลูกค้า 067,customer067@example.com,ชลบุรี,2024-08-13
+C0068,ลูกค้า 068, CUSTOMER068@EXAMPLE.COM ,ขอนเเก่น,2024-09-06
+C0069,ลูกค้า 069,customer069@example.com,กรุงเทพมหานคร,2024-01-15
+C0070,ลูกค้า 070,customer070@example.com,เชียงใหม่,2025-11-15
+C0071,ลูกค้า 071,customer071@example.com,ชลบุรี,2024-03-26
+C0072,ลูกค้า 072,customer072@example.com,เชียงใหม่,2024-04-28
+C0073,ลูกค้า 073,customer073@example.com,ขอนเเก่น,2024-04-27
+C0074,ลูกค้า 074,customer074@example.com,ขอนแก่น,2025-09-21
+C0075,ลูกค้า 075,customer075@example.com,Rayong,2025-10-27
+C0076,ลูกค้า 076,customer076@example.com,Rayong,2025-04-04
+C0077,ลูกค้า 077,customer077@example.com,Chiang Mai,2024-10-22
+C0078,ลูกค้า 078,customer078@example.com,Rayong,2025-01-27
+C0079,ลูกค้า 079,customer079@example.com,ภูเก็ต,2024-08-28
+C0080,ลูกค้า 080,customer080@example.com,ขอนแก่น,2024-01-04
+C0081,ลูกค้า 081,customer081@example.com,ขอนแก่น,2025-02-21
+C0082,ลูกค้า 082,customer082@example.com,กรุงเทพมหานคร,2024-07-05
+C0083,ลูกค้า 083,customer083@example.com,ขอนแก่น,2024-06-13
+C0084,ลูกค้า 084,customer084@example.com,กทม.,2024-05-22
+C0085,ลูกค้า 085, CUSTOMER085@EXAMPLE.COM ,Bangkok,2024-11-20
+C0086,ลูกค้า 086,customer086@example.com,Bangkok,2025-04-12
+C0087,ลูกค้า 087,,กรุงเทพมหานคร,2024-11-28
+C0088,ลูกค้า 088,customer088@example.com,ภูเก็ต,2024-03-14
+C0089,ลูกค้า 089,customer089@example.com,ชลบุรี,2024-02-07
+C0090,ลูกค้า 090,customer090@example.com,เชียงใหม่,2024-09-18
+C0091,ลูกค้า 091,customer091@example.com,ชลบุรี ,2025-04-16
+C0092,ลูกค้า 092,customer092@example.com,กทม.,2024-09-26
+C0093,ลูกค้า 093,customer093@example.com,Phuket,2025-08-13
+C0094,ลูกค้า 094,customer094@example.com,ขอนแก่น,2025-04-07
+C0095,ลูกค้า 095,customer095@example.com,ระยอง,2024-09-29
+C0096,ลูกค้า 096,customer096@example.com,กรุงเทพมหานคร,2025-12-01
+C0097,ลูกค้า 097,customer097@example.com,Chiang Mai,2024-03-11
+C0098,ลูกค้า 098,customer098@example.com,เชียงใหม่,2025-05-17
+C0099,ลูกค้า 099,customer099@example.com,ขอนเเก่น,2024-12-05
+C0100,ลูกค้า 100,customer100@example.com,กรุงเทพมหานคร,2025-04-14
+C0101,ลูกค้า 101,customer101@example.com,ภูเก็ต,2024-06-20
+C0102,ลูกค้า 102, CUSTOMER102@EXAMPLE.COM ,ระยอง,2025-09-03
+C0103,ลูกค้า 103,customer103@example.com,ขอนแก่น,2025-09-28
+C0104,ลูกค้า 104,customer104@example.com,ระยอง,2025-05-17
+C0105,ลูกค้า 105,customer105@example.com,ภูเก็ต,2024-08-14
+C0106,ลูกค้า 106,customer106@example.com,Phuket,2024-02-13
+C0107,ลูกค้า 107,customer107@example.com,ระยอง,2024-09-27
+C0108,ลูกค้า 108,customer108@example.com,Chiang Mai,2025-02-16
+C0109,ลูกค้า 109,customer109@example.com,กทม.,2025-01-07
+C0110,ลูกค้า 110,customer110@example.com,Chiang Mai,2025-11-25
+C0111,ลูกค้า 111,customer111@example.com,ขอนเเก่น,2025-03-30
+C0112,ลูกค้า 112,customer112@example.com,กรุงเทพมหานคร,2025-11-24
+C0113,ลูกค้า 113,customer113@example.com,Rayong,2025-05-24
+C0114,ลูกค้า 114,customer114@example.com,Chiang Mai,2025-04-05
+C0115,ลูกค้า 115,customer115@example.com,Rayong,2024-02-01
+C0116,ลูกค้า 116,,Rayong,2025-02-05
+C0117,ลูกค้า 117,customer117@example.com,ชลบุรี ,2024-05-19
+C0118,ลูกค้า 118,customer118@example.com,Rayong,2024-07-23
+C0119,ลูกค้า 119, CUSTOMER119@EXAMPLE.COM ,ขอนแก่น,2024-12-12
+C0120,ลูกค้า 120,customer120@example.com,ขอนแก่น,2025-09-17
+C0121,ลูกค้า 121,customer121@example.com,กรุงเทพมหานคร,2025-08-26
+C0122,ลูกค้า 122,customer122@example.com,ขอนแก่น,2025-01-18
+C0123,ลูกค้า 123,customer123@example.com,Rayong,2025-02-26
+C0124,ลูกค้า 124,customer124@example.com,กรุงเทพมหานคร,2025-08-06
+C0125,ลูกค้า 125,customer125@example.com,Chiang Mai,2025-07-08
+C0126,ลูกค้า 126,customer126@example.com,เชียงใหม่,2025-03-31
+C0127,ลูกค้า 127,customer127@example.com,ภูเก็ต,2025-05-16
+C0128,ลูกค้า 128,customer128@example.com,ขอนเเก่น,2024-12-19
+C0129,ลูกค้า 129,customer129@example.com,กทม.,2025-06-03
+C0130,ลูกค้า 130,customer130@example.com,ภูเก็ต,2025-09-18
+C0131,ลูกค้า 131,customer131@example.com,ระยอง,2024-09-08
+C0132,ลูกค้า 132,customer132@example.com,Chonburi,2025-02-04
+C0133,ลูกค้า 133,customer133@example.com,ภูเก็ต,2024-09-19
+C0134,ลูกค้า 134,customer134@example.com,Phuket,2025-08-29
+C0135,ลูกค้า 135,customer135@example.com,กรุงเทพมหานคร,2024-08-01
+C0136,ลูกค้า 136, CUSTOMER136@EXAMPLE.COM ,ระยอง,2024-06-23
+C0137,ลูกค้า 137,customer137@example.com,Phuket,2025-01-23
+C0138,ลูกค้า 138,customer138@example.com,กทม.,2025-06-20
+C0139,ลูกค้า 139,customer139@example.com,ระยอง,2024-07-19
+C0140,ลูกค้า 140,customer140@example.com,ภูเก็ต,2025-05-08
+C0141,ลูกค้า 141,customer141@example.com,Bangkok,2025-07-05
+C0142,ลูกค้า 142,customer142@example.com,Chonburi,2025-10-22
+C0143,ลูกค้า 143,customer143@example.com,เชียงใหม่,2025-01-04
+C0144,ลูกค้า 144,customer144@example.com,ภูเก็ต,2025-04-02
+C0145,ลูกค้า 145,,Phuket,2024-06-01
+C0146,ลูกค้า 146,customer146@example.com,กทม.,2025-05-19
+C0147,ลูกค้า 147,customer147@example.com,Chonburi,2024-08-13
+C0148,ลูกค้า 148,customer148@example.com,Chiang Mai,2025-07-20
+C0149,ลูกค้า 149,customer149@example.com,ขอนเเก่น,2024-07-01
+C0150,ลูกค้า 150,customer150@example.com,Chiang Mai,2024-09-13
+C0151,ลูกค้า 151,customer151@example.com,Chonburi,2024-10-15
+C0152,ลูกค้า 152,customer152@example.com,Chonburi,2025-03-14
+C0153,ลูกค้า 153, CUSTOMER153@EXAMPLE.COM ,ขอนเเก่น,2024-03-20
+C0154,ลูกค้า 154,customer154@example.com,เชียงใหม่,2024-04-12
+C0155,ลูกค้า 155,customer155@example.com,Chiang Mai,2025-01-16
+C0156,ลูกค้า 156,customer156@example.com,กรุงเทพมหานคร,2024-07-31
+C0157,ลูกค้า 157,customer157@example.com,ระยอง,2025-10-29
+C0158,ลูกค้า 158,customer158@example.com,เชียงใหม่,2024-02-23
+C0159,ลูกค้า 159,customer159@example.com,Phuket,2025-08-26
+C0160,ลูกค้า 160,customer160@example.com,Bangkok,2025-09-19
+C0012,ลูกค้า 012 ,customer012@example.com,ขอนเเก่น,2025-11-17
+C0045,ลูกค้า 045 ,customer045@example.com,Chiang Mai,2025-05-04
+C0088,ลูกค้า 088 ,customer088@example.com,ภูเก็ต,2024-03-14
